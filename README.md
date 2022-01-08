@@ -1,5 +1,5 @@
-# PictureFusion-Demo
+# PictureFusion
 
-PictureFusion-Demo
+PictureFusion
 
 CT-MPI image fusion experiment based on image registration technology!
